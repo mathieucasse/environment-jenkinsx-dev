@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: mathieucasse
+    provider: github
+    repository: express-hello
+  name: mathieucasse-express-hello
+spec:
+  description: Imported application for mathieucasse/express-hello
+  httpCloneURL: https://github.com/mathieucasse/express-hello.git
+  org: mathieucasse
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: express-hello
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/mathieucasse/express-hello.git
