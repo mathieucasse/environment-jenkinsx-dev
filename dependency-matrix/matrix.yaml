@@ -1,0 +1,7 @@
+dependencies:
+- host: github.com
+  owner: mathieucasse
+  repo: spring-boot-http-gradle
+  url: https://github.com/mathieucasse/spring-boot-http-gradle.git
+  version: ""
+  versionURL: ""
