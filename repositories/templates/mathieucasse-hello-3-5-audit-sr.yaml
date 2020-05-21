@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: mathieucasse
+    provider: github
+    repository: hello-3-5-audit
+  name: mathieucasse-hello-3-5-audit
+spec:
+  description: Imported application for mathieucasse/hello-3-5-audit
+  httpCloneURL: https://github.com/mathieucasse/hello-3-5-audit.git
+  org: mathieucasse
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: hello-3-5-audit
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/mathieucasse/hello-3-5-audit.git
