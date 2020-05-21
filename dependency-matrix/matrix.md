@@ -10,3 +10,4 @@ Dependency | Sources | Version | Mismatched versions
 [mathieucasse/hello-3-5-replace](https://github.com/mathieucasse/hello-3-5-replace.git) |  | []() | 
 [mathieucasse/hello-4-1](https://github.com/mathieucasse/hello-4-1.git) |  | []() | 
 [mathieucasse/hello-4-2](https://github.com/mathieucasse/hello-4-2.git) |  | []() | 
+[mathieucasse/hello-4-3](https://github.com/mathieucasse/hello-4-3.git) |  | []() | 

@@ -1,0 +1,21 @@
+apiVersion: jenkins.io/v1
+kind: SourceRepository
+metadata:
+  creationTimestamp: null
+  labels:
+    owner: mathieucasse
+    provider: github
+    repository: hello-4-3
+  name: mathieucasse-hello-4-3
+spec:
+  description: Imported application for mathieucasse/hello-4-3
+  httpCloneURL: https://github.com/mathieucasse/hello-4-3.git
+  org: mathieucasse
+  provider: https://github.com
+  providerKind: github
+  providerName: github
+  repo: hello-4-3
+  scheduler:
+    kind: ""
+    name: ""
+  url: https://github.com/mathieucasse/hello-4-3.git
