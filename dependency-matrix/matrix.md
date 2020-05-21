@@ -7,3 +7,4 @@ Dependency | Sources | Version | Mismatched versions
 [mathieucasse/hello-video-3-1](https://github.com/mathieucasse/hello-video-3-1.git) |  | []() | 
 [mathieucasse/hello-3-2-auto](https://github.com/mathieucasse/hello-3-2-auto.git) |  | []() | 
 [mathieucasse/hello-3-5-audit](https://github.com/mathieucasse/hello-3-5-audit.git) |  | []() | 
+[mathieucasse/hello-3-5-replace](https://github.com/mathieucasse/hello-3-5-replace.git) |  | []() | 
