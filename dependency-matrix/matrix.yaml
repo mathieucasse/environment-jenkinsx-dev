@@ -41,3 +41,9 @@ dependencies:
   url: https://github.com/mathieucasse/hello-4-1.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: mathieucasse
+  repo: hello-4-2
+  url: https://github.com/mathieucasse/hello-4-2.git
+  version: ""
+  versionURL: ""
