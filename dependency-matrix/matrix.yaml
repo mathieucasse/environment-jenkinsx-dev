@@ -11,3 +11,9 @@ dependencies:
   url: https://github.com/mathieucasse/express-hello.git
   version: ""
   versionURL: ""
+- host: github.com
+  owner: mathieucasse
+  repo: hello-video-3-1
+  url: https://github.com/mathieucasse/hello-video-3-1.git
+  version: ""
+  versionURL: ""
